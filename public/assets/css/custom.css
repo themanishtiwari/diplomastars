@@ -1,0 +1,85 @@
+
+  .col1{
+            border-radius: 30px;
+            border: 3px solid #ad1158;
+            margin: 10px;
+            background-color: #fffee1;
+            float: left;
+            width: 48%;
+            margin-bottom: 16px;
+            padding: 8px ;
+        }
+  .pic{
+          float: left;
+        }
+        .img1{
+            border-radius: 50%;
+            border: 2px dotted #ad1158;
+            padding: 2px;
+            margin: 5px;
+            height: 100px;
+            width: 100px;
+        }
+        .contain{
+            font-family: Tahoma, sans-serif;
+            text-align: right;
+            padding-right: 15px;
+            padding: 10px;
+        }
+        .card-name{
+          font-size: 20px;
+          margin: 0;
+        }
+        .card-discription{
+          font-size: 15px;
+          margin: 0.5rem;
+        }
+        .btn-danger{
+          background-color: #d30000;
+        }
+
+        .content img{
+          height: 250px;
+          width: 250px;
+        }
+
+        @media (max-width: 750px) {
+          .card-name{
+          font-size: 15px;
+          margin: 0;
+        }
+        .card-discription{
+          font-size: 12px;
+          margin: 0.5rem;
+        }
+        .img{
+            border-radius: 50%;
+            border: 2px dotted #ad1158;
+            padding: 2px;
+            margin: 5px;
+            height: 100px;
+            width: 100px;
+        }
+        .pic{
+          float: left;
+        }
+        .contain{
+            font-size: 13px;
+            font-family: Tahoma, sans-serif;
+            padding-right: 5px;
+            margin: 0px;
+            margin-bottom: 0px;
+        }
+        
+        .col1{
+            border-radius: 30px;
+            border: 3px solid #ad1158;
+            background-color: #fafce5;
+            float: center;
+            width: 100%;
+            margin: 0;
+            margin-bottom: 16px;
+            padding: 8px ;
+        }
+
+        }
